@@ -22,8 +22,12 @@ Baby, 'cause in the dark
 You can't see shiny cars
 And that's when you need me there
 With you I'll always share
+<<<<<<< HEAD
 Because
 When the sun shines, we'll shine together
 Told you I'll be here forever
 Said I'll always be your friend
 Took an oath, I'ma…
+=======
+Because
+>>>>>>> f806556bbcf827e20adb434fe9eccc1df7700c55
