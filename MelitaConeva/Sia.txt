@@ -1,8 +1,13 @@
-And I won't let you get me down
-I'll keep gettin' up when I hit the ground
+And I won't let you get me up
+I'll keep gettin' down when I hit the sky
 Oh, never give up, no, never give up no, no, oh
 I won't let you get me down
+<<<<<<< HEAD
 I'll keep gettin' up when I hit the ground
 
 But I won't never give up, no, never give up, no, no
 No, I won't never give up, no, never give up, no, no
+=======
+I'll keep gettin' up when I hit the ground
+Now my face is full of dirt, pretty cool
+>>>>>>> main
